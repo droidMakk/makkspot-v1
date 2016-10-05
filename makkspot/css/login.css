@@ -1,0 +1,26 @@
+.prompt_display{
+    font-size: 12px;
+    background-color: firebrick;
+    color: bisque;
+    padding: 5px;
+    font-family: sans-serif;
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+    float: right;
+    position: relative;
+}
+.form_container_1{
+    width: 1000px;
+    height: 2000px;
+}
+#username{
+    border-width: 0;
+    border-bottom-width: thin;
+    border-color: dodgerblue;
+}
+#password{
+    border-width: 0;
+    border-bottom-width: thin;
+    border-color: dodgerblue;
+}
